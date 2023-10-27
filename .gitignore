@@ -1,3 +1,6 @@
 Packages
 Packages.*
 VirtEnv
+pip.conf
+requirements.txt
+__pycache__/
